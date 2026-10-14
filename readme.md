@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 3D CNN Framework for Alzheimer's Disease Classification
 
 A deep-learning framework for classifying Alzheimer's disease (AD) and cognitively normal (CN) subjects using 3D brain MRI hippocampal data.
@@ -622,5 +621,3 @@ Any clinical use would require extensive validation, expert review, regulatory a
 No license is currently specified for this repository.
 
 If you plan to publish, reuse, or distribute this project, consider adding an appropriate open-source license. Also verify that the original MRI data, segmentation masks, and trained model files can legally be redistributed.
-
-````
